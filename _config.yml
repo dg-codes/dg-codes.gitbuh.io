@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 domain: dg-codes.co.uk
 url: https://dg-codes.co.uk
-baseurl: /dg-codes.github.io/
+baseurl: /
 
 twitter_username: jekyllrb
 github_username: jekyll
